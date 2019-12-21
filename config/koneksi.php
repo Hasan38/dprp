@@ -6,7 +6,7 @@ require_once('fungsi_validasi.php');
 $server =  "139.162.44.72";
 $username = "papuadev_papuadev";
 $password = "papuadevXYZ";
-$database = "papuadev_dprd1";
+$database = "papuadev_dprd2";
 
 // $server =  "localhost";
 // $username = "id7655651_dbk33r0m";
